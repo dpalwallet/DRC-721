@@ -34,8 +34,7 @@ DRC-721专为狗狗币网络上的非同质化代币（NFT）设计。它允许�
 {
     "p": "DRC-721",
     "op": "mint",
-    "txid": "the deployed hash",
-    "id" : "可选" 
+    "txid": "the deployed hash"
 }
 ```
 
@@ -44,7 +43,6 @@ DRC-721专为狗狗币网络上的非同质化代币（NFT）设计。它允许�
 | p | 是 | 协议：帮助其他系统识别和处理DRC-721事件 |
 | op | 是 | 操作：事件类型（deploy, mint, transfer） |
 | txid | 是 | txid：类似以太坊智能合约的合同地址，该 hash 为部署的脚本交易 hash，这样做的好处是能定位原部署的交易ID 并解决了重名的问题。 |
-| id | 否 | id：为 该 nft集合的 tokenid，如果不选填自动增长 |
 
 * 代币ID根据铭文ID的顺序从1到`max`，比如，第一个mint成功的token ID为1
 
