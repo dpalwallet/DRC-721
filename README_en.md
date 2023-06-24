@@ -17,7 +17,7 @@ Deploy a DRC-721 NFT and use external links to provide image uri information for
 
 ``` json
 {
-    "p": "DRC-721",
+    "p": "drc-721",
     "op": "deploy",
     "tick": "burn",
     "max": "10000",
@@ -32,7 +32,7 @@ Deploy a DRC-721 NFT and use external links to provide image uri information for
 
 ``` json
 {
-    "p": "DRC-721",
+    "p": "drc-721",
     "op": "mint",
     "txid": "the deployed hash"
 }
@@ -52,7 +52,7 @@ Transferring DRC-721 tokens is as simple as minting a transfer transaction and t
 
 ``` json
 {
-    "p": "DRC-721",
+    "p": "drc-721",
     "op": "transfer",
     "id": "1",
     "txid" : "the deployed hash",
