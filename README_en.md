@@ -74,8 +74,8 @@ Transferring DRC-721 tokens is as simple as minting a transfer transaction and t
 
 The index is still under test, and the details and principles will be released after the test and verification pass, mainly solving several problems below:
 
-** The traditional way of directly writing pictures cannot prove the uniqueness of assets, so a verifiable index is still needed to ensure asset ownership
-** Dust problem, this version of the index rules will not be troubled by dust
+* The traditional way of directly writing pictures cannot prove the uniqueness of assets, so a verifiable index is still needed to ensure asset ownership
+* Dust problem, this version of the index rules will not be troubled by dust
 
 
 ## Contribute
@@ -88,4 +88,5 @@ As an experimental standard, DRC-721 invites improvements and modifications to e
 
 ## reference
 https://brc-721.gitbook.io/about-the-brc-721-experimental-proposal/
+
 https://github.com/adshao/brc-721/blob/main/README_zh.md
