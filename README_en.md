@@ -85,3 +85,7 @@ DRC-721 is an experimental standard that brings non-fungible tokens (NFTs) to th
 The standard allows for a series of operations that facilitate the management of non-fungible tokens, including deployment, minting, transferring. Each token is assigned a unique identifier, ensuring that each NFT is distinct and cannot be exchanged on a one-to-one basis with another NFT.
 
 As an experimental standard, DRC-721 invites improvements and modifications to enhance its functionality and adapt it to the growing needs of the NFT ecosystem.
+
+## reference
+https://brc-721.gitbook.io/about-the-brc-721-experimental-proposal/
+https://github.com/adshao/brc-721/blob/main/README_zh.md
