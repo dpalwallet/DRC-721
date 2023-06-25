@@ -87,4 +87,6 @@ DRC-721是一个实验性标准，将非同质化代币（NFT）引入狗狗币�
 
 作为一个实验性标准，DRC-721欢迎改进和修改，以增强其功能，适应不断发展的NFT生态系统需求。
 
-## 参考 https://github.com/adshao/brc-721/blob/main/README_zh.md
+## 参考
+https://brc-721.gitbook.io/about-the-brc-721-experimental-proposal/
+https://github.com/adshao/brc-721/blob/main/README_zh.md
