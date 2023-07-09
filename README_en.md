@@ -76,6 +76,7 @@ The index is still under test, and the details and principles will be released a
 
 * The traditional way of directly writing pictures cannot prove the uniqueness of assets, so a verifiable index is still needed to ensure asset ownership
 * Dust problem, this version of the index rules will not be troubled by dust
+* drc721 base on  doginal Upgraded Agreement (doginal+)
 
 
 ## Contribute
