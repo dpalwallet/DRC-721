@@ -20,7 +20,7 @@ DRC-721专为狗狗币网络上的非同质化代币（NFT）设计。它允许�
     "op": "deploy",
     "tick": "burn",
     "max": "10000",
-    "buri": "ipfs://CID"
+    "buri": "ipfs://CID or https://ipfs.io/ipfs/cid"
 }
 ```
 
