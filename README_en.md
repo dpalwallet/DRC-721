@@ -21,7 +21,7 @@ Deploy a DRC-721 NFT and use external links to provide image uri information for
     "op": "deploy",
     "tick": "burn",
     "max": "10000",
-    "buri": "ipfs://CID"
+    "buri": "ipfs://CID or https://ipfs.io/ipfs/cid"
 }
 ```
 
